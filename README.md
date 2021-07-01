@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&theme=dark&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
-Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitator | α-MLSA'21
+Intern - Nestlé | Lead - GDSC UCEK | GCP Facilitator | α-MLSA'21
 
 - Intern at Nestlé India (June 7, 2021 - Present)
 - Lead for Google Developer Students Club UCEK
