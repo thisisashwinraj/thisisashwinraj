@@ -20,7 +20,7 @@ Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitat
 ## Educational Qualifications:
 - **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science Engineering</br>August 2020 - June 2020 (Expected)
 
-- **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018
+- **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
 
 ## Work Experience:
 - **Intern** - [Nestlé India](https://www.nestle.in/):
