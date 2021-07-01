@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Intern - Nestlé | Lead - GDSC UCEK | GCP Facilitator | α-MLSA'21
 
-- Intern at Nestlé India (June 7, 2021 - Present)
+- Nestern at Nestlé India (June 7, 2021 - Present)
 - Lead for Google Developer Students Club UCEK
 - Alpha level Microsoft Learn Student Ambassador
 - Chief Executive Officer - EXECOM'21 IEDC UCEK
