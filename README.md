@@ -23,16 +23,10 @@ Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitat
 - **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
 
 ## Work Experience:
-- **Intern** - [Nestlé India](https://www.nestle.in/):
+- **Intern** - [Nestlé India](https://www.nestle.in/):</br>June 2021 - Present
 
-    • Digitized and streamlined the process of product test reporting by developing power apps.</br>• Integrated PowerApps with SharePoint to administer data policies and facilitate test reporting.</br>• Used Power Automate to set auto-approval & status update feature for power applications.
+- **Machine Learning Intern** - [Artem](https://artem.energy/):</br>July 2020 - September 2020
 
-- **Machine Learning Intern** - [Artem](https://artem.energy/):
-
-    • Researched on the applications of Machine Learning for Electric two wheeler vehicles.</br>• Owned and managed knowledge sharing within the internal team through presentations.</br>• Fine tuned existing machine learning models by implementing suitable algorithms.
-
-- **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):
-
-    • Worked with senior developers and a team of interns to build Machine Learning models.</br>• Researched and worked on the concepts of embedded engineering alongside android auto.</br>• Fixed bugs, created tests, and suggested features for existing predictive models.
+- **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):</br>August 2019 - October 2019
 
 ![Ashwin's Github Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
