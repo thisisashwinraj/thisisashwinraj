@@ -34,21 +34,5 @@ Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitat
 - **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):
 
     • Worked with senior developers and a team of interns to build Machine Learning models.</br>• Researched and worked on the concepts of embedded engineering alongside android auto.</br>• Fixed bugs, created tests, and suggested features for existing predictive models.
-    
-
-## Volunteer Experience:
-- **Lead** - [Google Developer Student Club](https://www.nestle.in/):</br>August 2020 - July 2021
-
-- **Alpha Student Ambassadors** - [Microsoft Learn Student Ambassadors](https://www.nestle.in/):</br>August 2020 - Present
-
-- **Chief Executive Officer** - [IEDC UCEK](https://www.nestle.in/):</br>August 2020 - Present
-
-## Honors & Awards:
-- **Proficiency Award** - University of Kerala
-- **National Qualifier** - National Engineering Challenge 2020
-- **Student of the Year 2019** - Heyfolio
-- **1st Position in Technical Debate** - Mavericks Club, UCEK
-- **2nd Position in Machine Learning Hackathon (Techvriddhi 2018)** - E-Cell IIT Kharagpur
-- **National Qualifier** - Tata Crucible Campus Quiz 2021
 
 ![Ashwin's Github Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
