@@ -13,10 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, This Is [< Ashwin Raj/>](https://ashwinraj-in.github.io) 
-Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitator | α-MLSA'21
-<br />
+## Hello, This Is [< Ashwin Raj/>](https://ashwinraj-in.github.io)
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&theme=dark&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
+
+Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitator | α-MLSA'21
+
+- Intern at Nestlé India (June 2021 - Present)
+- Lead for Google Developer Students Club UCEK
+- Alpha level Microsoft Learn Student Ambassador
+- Chief Executive Officer - EXECOM'21 IEDC UCEK
+- Machine Learning Blogs - Towards Data Science
+
+<!--
 ## Educational Qualifications:
 - **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science Engineering</br>August 2020 - June 2020 (Expected)
 
@@ -30,3 +39,4 @@ Intern - Nestlé | Lead - GDSC UCEK | GSSoC'21 | CEO - IEDC UCEK | GCP Facilitat
 - **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):</br>August 2019 - October 2019
 
 ![Ashwin's Github Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
+-->
