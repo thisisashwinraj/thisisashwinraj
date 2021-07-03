@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&theme=dark&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
-Junior Year Computer Science Engineering Student at UoKerala
-
-**E-Mail** : rajashwin733@gmail.com | **Twitter** : @ThisIsAshwinRaj
+Junior Year Computer Science Engineering Student at UoKerala</br>**E-Mail** : rajashwin733@gmail.com | **Twitter** : @ThisIsAshwinRaj
 
 - Summer Intern at Nestlé India (June to July'21)
 - Lead for Google Developer Students Club UCEK
