@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello, This Is [< Ashwin Raj/>](https://ashwinraj-in.github.io)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&theme=dark&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
 Junior Year Computer Science Engineering Student at UoKerala
 
