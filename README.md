@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Junior Year Computer Science Engineering Student at UoKerala
 
+**E-Mail** : rajashwin733@gmail.com | **Twitter** : @ThisIsAshwinRaj
+
 - Summer Intern at Nestlé India (June to July'21)
 - Lead for Google Developer Students Club UCEK
 - Alpha level Microsoft Learn Student Ambassador
