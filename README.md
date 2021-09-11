@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 Junior Year Computer Science Engineering Student at UoKerala
 
-- Summer Intern at Nestlé India (June to July '21)
-- Lead for Google Developer Students Club UCEK
-- Alpha Microsoft Learn Student Ambassador '21
-- Chief Executive Officer - EXECOM'21 IEDC UCEK
-- Machine Learning Blogs - Towards Data Science
+- Summer Intern (QA) at Nestlé India (June to July '21)
+- Ex GDSC Lead for Google Developer Students Club UCEK
+- Alpha Microsoft Learn Student Ambassador 2021 - UCEK
+- Chief Executive Officer for IEDC UCEK EXECOM 2021
+- Machine Learning Blogs - Towards Data Science Medium
 
 <!--
 ## Educational Qualifications:
