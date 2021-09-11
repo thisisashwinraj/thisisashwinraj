@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Junior Year Computer Science Engineering Student at UoKerala
 
-- Summer Intern (QA) at Nestlé India (June '21 to July '21)
+- Summer Intern (QA) at Nestlé India  (June '21 to July '21)
 - Ex GDSC Lead for Google Developer Students Club UCEK
 - Alpha Microsoft Learn Student Ambassador 2021 - UCEK
 - Chief Executive Officer (CEO) - IEDC UCEK EXECOM 2021
