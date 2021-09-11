@@ -21,7 +21,7 @@ Junior Year Computer Science Engineering Student at UoKerala
 
 - Summer Intern at Nestlé India (June to July '21)
 - Lead for Google Developer Students Club UCEK
-- Alpha level Microsoft Learn Student Ambassador
+- Alpha Microsoft Learn Student Ambassador 2022
 - Chief Executive Officer - EXECOM'21 IEDC UCEK
 - Machine Learning Blogs - Towards Data Science
 
