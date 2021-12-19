@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
-Junior Year Computer Science Engineering Student at UoKerala
+Senior Year Computer Science Engineering Student at UoKerala
 
 - Summer Intern (QA) at Nestlé India  (June '21 to July '21)
 - Ex GDSC Lead for Google Developer Students Club UCEK
