@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Senior Year Computer Science Engineering Student at UoKerala
 
-- Intern (MiPay) at Xiaomi India (November to Present)
+- Intern (MiPay) at Xiaomi India (November'21 to Present)
 - Ex GDSC Lead for Google Developer Students Club UCEK
 - Alpha Microsoft Learn Student Ambassador 2021 - UCEK
 - Chief Executive Officer (CEO) - IEDC UCEK EXECOM 2021
