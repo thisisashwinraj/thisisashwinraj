@@ -29,5 +29,5 @@ Senior Year Computer Science Engineering Student at UoKerala
 
 - **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):</br>August 2019 - October 2019
 
-![Ashwin's Github Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
 -->
