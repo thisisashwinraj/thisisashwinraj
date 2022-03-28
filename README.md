@@ -1,7 +1,5 @@
 <!--
 **ashwinraj-in/ashwinraj-in** is a _special_  repository because its `README.md` file appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
 ## Hello, This Is [< Ashwin Raj/>](https://ashwinraj-in.github.io)
