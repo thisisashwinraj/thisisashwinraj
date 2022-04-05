@@ -21,7 +21,9 @@ Senior Year Computer Science Engineering Student at UoKerala
 - **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
 
 ## Work Experience:
-- **Intern** - [Nestlé India](https://www.nestle.in/):</br>June 2021 - Present
+- **Intern** - [Xiaomi India](https://www.xiaomi.com/):</br>November 2021 - February 2022
+
+- **Intern** - [Nestlé India](https://www.nestle.in/):</br>June 2021 - July 2021
 
 - **Machine Learning Intern** - [Artem](https://artem.energy/):</br>July 2020 - September 2020
 
