@@ -8,7 +8,7 @@
 
 Senior Year Computer Science Engineering Student at UoKerala
 
-- Project intern at Nestle India (March'22 to Present)
+- Project intern (NPD) at Nestle India (March'22 to Present)
 - Ex GDSC Lead for Google Developer Students Club UCEK
 - Alpha Microsoft Learn Student Ambassador 2021 - UCEK
 - Chief Executive Officer (CEO) - IEDC UCEK EXECOM 2021
