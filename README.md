@@ -2,7 +2,7 @@
 **ashwinraj-in/ashwinraj-in** is a _special_  repository because its `README.md` file appears on your Github profile.
 -->
 
-## Hello, This Is [< Ashwin Raj/>](https://ashwinraj-in.github.io)
+## Hello, This Is [< Ashwin Raj/>](https://thisisashwinraj.github.io)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
