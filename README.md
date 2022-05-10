@@ -16,7 +16,7 @@ Senior Year Computer Science Engineering Student at UoKerala
 
 <!--
 ## Educational Qualifications:
-- **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - June 2020 (Expected)
+- **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - August 2022 (Expected)
 
 - **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
 
