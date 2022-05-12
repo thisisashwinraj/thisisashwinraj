@@ -4,7 +4,7 @@
 
 ## Hello, This Is [< Ashwin Raj/>](https://www.linkedin.com/in/thisisashwinraj/)
 
-[<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
 Senior Year Computer Science Engineering Student at UoKerala
 
