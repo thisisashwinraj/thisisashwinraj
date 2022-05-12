@@ -4,7 +4,7 @@
 
 ## Hello, This Is [< Ashwin Raj/>](https://www.linkedin.com/in/thisisashwinraj/)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
+[<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
 
 Senior Year Computer Science Engineering Student at UoKerala
 
@@ -26,8 +26,6 @@ Senior Year Computer Science Engineering Student at UoKerala
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 
-
-![](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&theme=minimal)
 
 
 <!--
