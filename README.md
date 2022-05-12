@@ -26,6 +26,10 @@ Senior Year Computer Science Engineering Student at UoKerala
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 
+
+![](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&theme=minimal)
+
+
 <!--
 ## Educational Qualifications:
 - **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - August 2022 (Expected)
