@@ -5,9 +5,10 @@
 ## Hello, This Is [< Ashwin Raj/>](https://www.linkedin.com/in/thisisashwinraj/)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/ashwinraj-in?template=classic)
-
+<!--
 Senior Year Computer Science Engineering Student at UoKerala
-
+-->
+- Senior year computer science and engineering undergad
 - Project intern (NPD) at Nestle India (March'22 to May'22)
 - Intern - BI(Mi Finance) at Xiaomi India (Nov'22 to Feb'22)
 - Ex GDSC Lead for Google Developer Students Club UCEK
