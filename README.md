@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/thisisashwinraj?template=classic)
 <!--
-Senior Year Computer Science Engineering Student at UoKerala
+Senior Year Computer Science and Engineering Student at UoKerala
 -->
 - Senior year computer science and engineering undergad
 - Project intern (NPD) at Nestle India (March'22 to May'22)
