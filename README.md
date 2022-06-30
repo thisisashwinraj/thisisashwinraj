@@ -10,7 +10,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 -->
 - Senior year computer science and engineering undergad
 - Project intern (NPD) at Nestle India (March'22 to May'22)
-- Intern - BI(Mi Finance) at Xiaomi India (Nov'22 to Feb'22)
+- Intern - BI (Mi Finance) at Xiaomi India (Nov'21 to Feb'22)
 - Ex GDSC Lead for Google Developer Students Club UCEK
 - Beta Microsoft Learn Student Ambassador (2022) - UCEK
 - Ex Chief Executive Officer (CEO) - IEDC UCEK EXECOM'21
