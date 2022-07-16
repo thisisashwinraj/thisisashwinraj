@@ -47,3 +47,4 @@ Senior Year Computer Science and Engineering Student at UoKerala
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
 -->
 
+[![Ashwin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&&theme=xcode)](https://github.com/thisisashwinraj)
