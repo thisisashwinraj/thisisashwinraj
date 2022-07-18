@@ -47,7 +47,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 -->
 
 <p align="justify">
-I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye this, I was also a part of the 2021 Code in Place batch of Stanford University and have also interned with various top MNC companies
+I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye this, I was also a part of the 2021 Code in Place batch of the Stanford University, and have also interned with various top MNC companies
 </p>
 
 [![Ashwin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&&theme=xcode)](https://github.com/thisisashwinraj)
