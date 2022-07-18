@@ -46,6 +46,10 @@ Senior Year Computer Science and Engineering Student at UoKerala
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
 -->
 
+<p align="justify">
+I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye this, I was also a part of the 2021 Code in Place batch of Stanford University and have also interned with various top companies like Xiaomi India, Nestle, Artem, and GraffitiTechnologies
+</p>
+
 [![Ashwin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&&theme=xcode)](https://github.com/thisisashwinraj)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
