@@ -51,4 +51,8 @@ I am a data-driven senior year engineering student, pursuing Bachelors in Comput
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://skillicons.dev)
 
+<p align="justify">
+During my tenure at University of Kerala, I have already completed a great deal of coursework and have participated in multitude of summits and colloquiums. I have worked on multifarious projects, majorly fixating on AI/ML and related subjects and was instrumental in starting various technical and entrepreneurial clubs on campus. Through my college years, I have held multiple positions of responsibilities such as the Lead for Google Developer Students Club, Executive Director for Workspace, Campus Facilitator for GCP and the Chief Executive Officer for the Innovation & Entrepreneurship Development Cell (by Kerala Start Up Mission) at the Universiy of Kerala
+</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
