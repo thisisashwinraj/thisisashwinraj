@@ -49,5 +49,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye that, I was also a part of the 2021 Code in Place batch of the Stanford University, and have also interned with various top MNC companies
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://skillicons.dev)
+
 [![Ashwin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&&theme=xcode)](https://github.com/thisisashwinraj)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
