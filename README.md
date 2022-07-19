@@ -53,5 +53,4 @@ During my tenure at University of Kerala, I have already completed a great deal 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://skillicons.dev)
 
-[![Ashwin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thisisashwinraj&&theme=xcode)](https://github.com/thisisashwinraj)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
