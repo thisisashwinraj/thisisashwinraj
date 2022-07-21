@@ -17,10 +17,8 @@ Senior Year Computer Science and Engineering Student at UoKerala
 - Ex Chief Executive Officer (CEO) - IEDC UCEK EXECOM'21
 - Machine Learning Blogs - Towards Data Science Medium
 
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://www.linkedin.com/in/thisisashwinraj/)
-
 <!--
 ## Educational Qualifications:
 - **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - August 2022 (Expected)
