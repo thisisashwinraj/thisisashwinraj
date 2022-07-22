@@ -39,6 +39,9 @@ Senior Year Computer Science and Engineering Student at UoKerala
 <p align="justify">
 I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye that, I was also a part of the 2021 Code in Place batch of the Stanford University, and have also interned with various top MNC companies
 </p>
+<p align="justify">
+During my tenure at University of Kerala, I have already completed a great deal of coursework and have participated in multitude of summits and colloquiums. I have worked on multifarious projects, majorly fixating on AI/ML and related subjects and was instrumental in starting various technical and entrepreneurial clubs on campus. Through my college years, I have held multiple positions of responsibilities such as the Lead for Google Developer Students Club, Executive Director for Workspace, Campus Facilitator for GCP and the Chief Executive Officer for the Innovation & Entrepreneurship Development Cell (by Kerala Start Up Mission) at the Universiy of Kerala
+</p>
 
 <a href="https://www.linkedin.com/in/thisisashwinraj"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="mailto:thisisashwinraj@gmail.com"> ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
@@ -49,8 +52,6 @@ I am a data-driven senior year engineering student, pursuing Bachelors in Comput
 <a href="https://colab.research.google.com"> ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) </a>
 <a href="https://dialogflow.cloud.google.com"> ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)</a>
 
-<p align="justify">
-During my tenure at University of Kerala, I have already completed a great deal of coursework and have participated in multitude of summits and colloquiums. I have worked on multifarious projects, majorly fixating on AI/ML and related subjects and was instrumental in starting various technical and entrepreneurial clubs on campus. Through my college years, I have held multiple positions of responsibilities such as the Lead for Google Developer Students Club, Executive Director for Workspace, Campus Facilitator for GCP and the Chief Executive Officer for the Innovation & Entrepreneurship Development Cell (by Kerala Start Up Mission) at the Universiy of Kerala
-</p>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
