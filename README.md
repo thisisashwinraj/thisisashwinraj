@@ -43,7 +43,7 @@ I am a data-driven senior year engineering student, pursuing Bachelors in Comput
 During my tenure at University of Kerala, I have already completed a great deal of coursework and have participated in multitude of summits and colloquiums. I have worked on multifarious projects, majorly fixating on AI/ML and related subjects and was instrumental in starting various technical and entrepreneurial clubs on campus. Through my college years, I have held multiple positions of responsibilities such as the Lead for Google Developer Students Club, Executive Director for Workspace, Campus Facilitator for GCP and the Chief Executive Officer for the Innovation & Entrepreneurship Development Cell (by Kerala Start Up Mission) at the Universiy of Kerala
 </p>
 <p align="justify">
-When not working, he writes technical articles and blogs on medium and is associated with various publishers such as Towards Data Science and The Start Up. He is also skilled at sketching portraits, performing UX case studies & designing digital media print collaterals
+When not working, he writes technical articles and blogs on medium and is associated with various publishers such as Towards Data Science and The Startup. He is also skilled at sketching portraits, performing UX case studies and designing digital media print collaterals
 </p>
 
 <a href="https://www.linkedin.com/in/thisisashwinraj"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
