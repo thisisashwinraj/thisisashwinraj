@@ -57,4 +57,4 @@ When not working, he writes technical articles and blogs on medium and is associ
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thisisashwinraj&label=Profile%20views&color=0e75b6&style=flat" alt="thisisashwinraj" /> </p>
