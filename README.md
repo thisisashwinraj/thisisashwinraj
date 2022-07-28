@@ -21,7 +21,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://www.linkedin.com/in/thisisashwinraj/)
 <!--
 ## Educational Qualifications:
-- **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - August 2022 (Expected)
+- **University Colege of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - July 2022 (Expected)
 
 - **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
 
