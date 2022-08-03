@@ -1,9 +1,11 @@
 <!--
 thisisashwinraj/thisisashwinraj is a _special_  repository because its `README.md` file appears on your Github profile.
--->
+
 
 ## Hello, This Is [< Ashwin Raj/>](https://www.linkedin.com/in/thisisashwinraj/)
+-->
 
+![](https://github.com/thisisashwinraj/thisisashwinraj/blob/main/profileBanner.png)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/thisisashwinraj?template=classic)
 <!--
