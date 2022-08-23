@@ -54,6 +54,3 @@ When not working, he writes technical articles and blogs on medium and is associ
 <a href="https://thisisashwinraj.medium.com"> ![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) </a>
 <a href="https://colab.research.google.com"> ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) </a>
 <a href="https://dialogflow.cloud.google.com"> ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thisisashwinraj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thisisashwinraj/0" alt="Recent Article 0"> 
-
