@@ -42,7 +42,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 -->
 
 <p align="justify">
-When not working, he writes technical articles and blogs on medium and is associated with various publishers such as Towards Data Science and The Startup. He is also skilled at sketching portraits, performing UX case studies, and designing digital media print collaterals
+When not working, he writes technical articles and blogs on medium and is associated with various publishers such as Towards Data Science and The Startup. He is also skilled at sketching portraits, performing UX case studies, and designing digital media print collaterals.
 </p>
 
 <a href="https://www.linkedin.com/in/thisisashwinraj"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
