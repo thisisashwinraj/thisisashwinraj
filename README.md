@@ -16,6 +16,7 @@ During my tenure at University of Kerala, I have already completed a great deal 
 <!--
 Senior Year Computer Science and Engineering Student at UoKerala
 -->
+
 - Senior year computer science and engineering undergad
 - Project intern (NPD) at Nestle India (March'22 to May'22)
 - Intern - BI (MiFinance) at Xiaomi India (Nov'21 to Feb'22)
