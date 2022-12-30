@@ -3,6 +3,7 @@
 thisisashwinraj/thisisashwinraj is a special repository as its README.md file appears on your profile.
 ![ ](https://github.com/thisisashwinraj/thisisashwinraj/blob/main/profileBanner.png)
 -->
+
 <p align="justify">
 I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye that, I was also a part of the 2021 Code in Place batch of the Stanford University and have also interned with various top MNC companies
 </p>
