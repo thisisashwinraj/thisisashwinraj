@@ -1,4 +1,4 @@
-## Hello, This Is [< Ashwin Raj/>](https://www.linkedin.com/in/thisisashwinraj/)  
+## Hello, This Is [< Ashwin Raj/>](https://linkedin.com/in/thisisashwinraj/)  
 <!--
 thisisashwinraj/thisisashwinraj is a special repository as its README.md file appears on your profile.
 ![ ](https://github.com/thisisashwinraj/thisisashwinraj/blob/main/profileBanner.png)
