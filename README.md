@@ -66,11 +66,12 @@ During my tenure at University of Kerala, I have already completed a great deal 
 ## Hello, I am [Ashwin Raj](https://linkedin.com/in/thisisashwinraj/) - A Developer from New Delhi
 I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi, and Nestlé. Whether you need to build some low-code applications, or migrate your services to the cloud, or create some large-scale enterprise-level softwares, I can help.
 
+### My Skills and Competencies
+
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting front-end applications using HTML, CSS and JavaScript
 <br>
 • I have profound domain knowledge in cutting edge technologies like Cloud Computing, Data Science, AI/Machine Learning, and UI/UX
 <br>
 • I am experienced in using analytic tools such as Clarity & Google Analytics and have worked on low-code platforms like Power Platform
 
-### My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://www.linkedin.com/in/thisisashwinraj/)
