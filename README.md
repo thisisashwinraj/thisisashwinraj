@@ -1,8 +1,9 @@
-## Hello, This Is [< Ashwin Raj/>](https://linkedin.com/in/thisisashwinraj/)  
 <!--
+## Hello, This Is [< Ashwin Raj/>](https://linkedin.com/in/thisisashwinraj/)  
+
 thisisashwinraj/thisisashwinraj is a special repository as its README.md file appears on your profile.
 ![ ](https://github.com/thisisashwinraj/thisisashwinraj/blob/main/profileBanner.png)
--->
+
 
 <p align="justify">
 I am a data-driven senior year engineering student, pursuing Bachelors in Computer Science Engineering. I am a passionate software engineer with a broad array of diverse Machine Learning skills, theories & coding abilities. I have experience working on large datasets and scripting scalable supervised learning models and have won various hackathons, quizzes, and various other competitions. Forbye that, I was also a part of the 2021 Code in Place batch of the Stanford University and have also interned with various top MNC companies
@@ -10,9 +11,9 @@ I am a data-driven senior year engineering student, pursuing Bachelors in Comput
 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thisisashwinraj&show_icons=true">](https://metrics.lecoq.io/thisisashwinraj?template=classic)
-<!--
+
 Senior Year Computer Science and Engineering Student at UoKerala
--->
+
 
 - Senior year computer science and engineering undergad
 - Project intern (NPD) at Nestle India (March'22 to May'22)
@@ -22,7 +23,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 - Ex Chief Executive Officer (CEO) - IEDC UCEK EXECOM'21
 - Machine Learning Blogs - Towards Data Science Medium
 
-<!--
+
 ## Educational Qualification:
 - **University College of Engineering, Kariavattom (University of Kerala)**</br>Bachelor of Technology, Computer Science and Engineering</br>August 2020 - July 2022 (Expected)
 - **Prabhu Dayal Public School, Shalimar Bagh**</br>High School (Physics,Chemistry,Mathematics)</br>April 2016 - March 2018 | Elective Subject: Engineering Graphics
@@ -37,7 +38,7 @@ Senior Year Computer Science and Engineering Student at UoKerala
 - **Software Trainee** - [Graffiti Software Solutions](http://www.graffititechnologies.com/):</br>August 2019 - October 2019
 
 ![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinraj-in&show_icons=true&hide_border=true)
--->
+
 
 <p align="justify">
 When not working, he writes technical articles and blogs on medium and is associated with various publishers such as Towards Data Science and The Startup. He is also skilled at sketching portraits, performing UX case studies, and designing digital media print collaterals
@@ -60,9 +61,10 @@ During my tenure at University of Kerala, I have already completed a great deal 
 
 
 <hr>
+-->
 
 ## Hello, I am [Ashwin Raj](https://linkedin.com/in/thisisashwinraj/) - A Developer from New Delhi
-I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi and Nestlé. Whether you need to build a low-code application, migrate your services to the cloud, or create an entire enterprise-level software, I can help.
+I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi, and Nestlé. Whether you need to build a low-code application, migrate your services to the cloud, or create an entire enterprise-level software, I can help.
 
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting with HTML
 <br>
