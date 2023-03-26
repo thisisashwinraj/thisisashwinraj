@@ -21,7 +21,7 @@ During my tenure at University of Kerala, I have already completed a great deal 
 I am a software developer with experience in building scalable software for MNCs such as TCS, Xiaomi & Nestle. Whether you need to build a low-code application, migrate your services to the cloud, or create an entire enterprise-level software, I can help.
 
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting with HTML
-
+<br>
 • I am experienced in using tools such as Power Platform, Azure, Google Analytics and Figma
-
+<br>
 • I have extensive domain knowledge in Azure Cloud, AI/Machine Learning and Data Science
