@@ -68,8 +68,8 @@ I am a software developer with experience in building scalable softwares for MNC
 
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting front-end applications using HTML, CSS and JavaScript
 <br>
-• I am experienced in using tools such as Power Platform, Azure, Google Analytics and Figma
+• I have profound domain knowledge in cutting edge technologies like Cloud Computing, Data Science, AI/Machine Learning, and UI/UX
 <br>
-• I have extensive domain knowledge in Azure Cloud, AI/Machine Learning and Data Science
+• I am experienced in using analytic tools such as Clarity & Google Analytics and have worked on low-code platforms like Power Platform
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://www.linkedin.com/in/thisisashwinraj/)
