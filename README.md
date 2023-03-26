@@ -72,4 +72,5 @@ I am a software developer with experience in building scalable softwares for MNC
 <br>
 • I am experienced in using analytic tools such as Clarity & Google Analytics and have worked on low-code platforms like Power Platform
 
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,arduino,mysql,gcp,azure,heroku,bash,tensorflow,bots,figma,firebase,git)](https://www.linkedin.com/in/thisisashwinraj/)
