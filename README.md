@@ -2,7 +2,6 @@
 I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi and Nestlé. Whether you need to build some low-code applications, or migrate your services to the cloud, or create some large-scale enterprise-level softwares, I can help.
 
 ### My Skills and Competencies
-
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting front-end applications using HTML, CSS and JavaScript
 <br>
 • I have profound domain knowledge in cutting edge technologies like Cloud Computing, Data Science, AI/Machine Learning, and UI/UX
