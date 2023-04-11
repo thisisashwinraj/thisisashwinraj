@@ -1,5 +1,5 @@
 ## Hello, I am [Ashwin Raj](https://linkedin.com/in/thisisashwinraj/) - A Developer from New Delhi
-I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi and Nestlé. Whether you need to create some large-scale enterprise-level softwares, or migrate your services to the cloud, or build some low-code applications, I can help.
+I am a software developer with experience in building scalable softwares for MNCs such as TCS, Xiaomi and Nestlé. Whether you need to build some large-scale enterprise-level softwares, or migrate your services to the cloud, or create some low-code applications, I can help.
 
 ### My Skills and Competencies
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting front-end applications using HTML, CSS and JavaScript
