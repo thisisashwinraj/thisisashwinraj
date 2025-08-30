@@ -7,4 +7,4 @@ I'm a data scientist with expertise in building scalable Agentic AI workflows an
 - I have strong domain expertise in Agentic AI, ML, and Data Science, with practical experience deploying solutions on **GCP** and **Azure**
 - I have experience working with AI frameworks like **ADK** and **LangChain**, designing **MCP servers**, and building scalable **RAG** pipelines
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,cpp,tensorflow,html,mysql,arduino,gcp,heroku,azure,bots,firebase,git,figma)](https://www.linkedin.com/in/thisisashwinraj/)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,tensorflow,mysql,firebase,fastapi,git,gcp,azure,langchain,prompts,streamlit,googlecolab,gemini,chatgpt,deepseek)
