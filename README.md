@@ -1,6 +1,6 @@
 ## Hello, I am [Ashwin Raj](https://linkedin.com/in/thisisashwinraj/) - A Developer from Bangalore!
 
-I'm a data scientist with expertise in building scalable Agentic AI workflows and Machine Learning solutions on cloud. Whether you need to develop enterprise-grade Machine Learning models, design Agentic AI workflows, or integrate Gen AI into your products, I can help!
+I'm a data scientist with expertise in building scalable Agentic AI workflows and Machine Learning solutions on cloud. Whether you need to develop enterprise-grade Machine Learning models, design Agentic AI workflows, or integrate Gen AI into your ecosystem, I can help!
 
 ### My Skills and Competencies
 • I am highly proficient in Python, C/C++, and Java and have knowledge scripting front-end applications using HTML, CSS and JavaScript
