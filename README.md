@@ -1,4 +1,4 @@
-## Hello, I am [Ashwin Raj](https://linkedin.com/in/thisisashwinraj/) - A Data Practitioner from New Delhi!
+## Hello, I am [Ashwin](https://linkedin.com/in/thisisashwinraj/) from New Delhi!
 
 I'm a data scientist with expertise in building scalable Agentic AI workflows and Machine Learning solutions on cloud. Whether you need to develop enterprise-grade Machine Learning models, design Agentic AI workflows, or integrate Gen AI into your ecosystem, I can help!
 
